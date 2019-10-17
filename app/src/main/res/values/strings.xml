@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="tab_userlist">All Users</string>
+    <string name="tab_favlist">Favourite Users</string>
+    <string name="no_fav_found">No Favourite Users found</string>
+    <string name="title_activity_user_detail">Map</string>
+</resources>
